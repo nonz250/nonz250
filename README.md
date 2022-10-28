@@ -4,12 +4,6 @@
 
 ## Web application engineer (PHPer)
 
-### Qiita
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/nonz250/posts.svg)](http://qiita.com/nonz250)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/nonz250/contributions.svg)](http://qiita.com/nonz250)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/nonz250/followers.svg)](http://qiita.com/nonz250)
-
 ### Blog
 
 [https://labo.nozomi.bike](https://labo.nozomi.bike)
