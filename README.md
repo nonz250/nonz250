@@ -1,19 +1,12 @@
-# My Profile nonz250
+# nonz250
 
-https://nozomi.bike
-
-
-## Blog
-
-https://labo.nozomi.bike
+| - | URL |
+| --- | --- |
+| Profile | https://nozomi.bike |
+| Blog | https://labo.nozomi.bike |
 
 ## My apps
 
-### WEB 席次表 envas
-
-https://envas.jp
-
-### 今年の抱負メーカー
-
-https://ambition.nozomi.bike
-
+| - | URL |
+| WEB 席次表 envas | https://envas.jp |
+| 今年の抱負メーカー | https://ambition.nozomi.bike |
